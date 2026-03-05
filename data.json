@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "data": {
+        "balance": {
+          "amount": 3.39
+        },
+        "total_flow": {
+          "total": 6.24,
+          "balance": 0,
+          "used": 6.24
+        },
+        "voice": {
+          "total": 500,
+          "balance": 457
+        }
+      }
+    }
+  ]
+}
