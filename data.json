@@ -4,12 +4,12 @@
     {
       "data": {
         "balance": {
-          "amount": 3.39
+          "amount": 103.39
         },
         "total_flow": {
           "total": 42.46,
           "balance": 29.22,
-          "used": 13.24
+          "used": 13.25
         },
         "voice": {
           "total": 500,
