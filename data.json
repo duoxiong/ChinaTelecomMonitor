@@ -8,12 +8,12 @@
         },
         "total_flow": {
           "total": 42.65,
-          "balance": 35.85,
-          "used": 6.8
+          "balance": 35.78,
+          "used": 6.87
         },
         "voice": {
           "total": 500,
-          "balance": 404
+          "balance": 400
         }
       }
     }
